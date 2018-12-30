@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mohamedessam/CLionProjects/untitled3/Train_ Automation.h
+sys/types.h
+-
+pthread.h
+-
+
+/home/mohamedessam/CLionProjects/untitled3/Train_Automation.c
+Train_ Automation.h
+/home/mohamedessam/CLionProjects/untitled3/Train_ Automation.h
+stdio.h
+-
+pthread.h
+-
+

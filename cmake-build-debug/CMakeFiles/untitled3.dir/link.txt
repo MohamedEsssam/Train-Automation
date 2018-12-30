@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/untitled3.dir/main.c.o CMakeFiles/untitled3.dir/Train_Automation.c.o  -o untitled3 -lpthread 
